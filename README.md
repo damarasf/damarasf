@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning **Go & Redis**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/damarasf)
 
-- 📫 How to reach me **damaraccd11@gmail.com**
 
 <p align="left">
 <a href="https://github.com/damarasf?tab=repositories">
