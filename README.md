@@ -9,7 +9,6 @@ Curently i learn everything 🤣
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damarasf&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   </a>
   </p>
-  <br>
 
 ### 💻 Languages and Tools:
 
@@ -25,6 +24,7 @@ Curently i learn everything 🤣
   
 <br />
 <br />
+
 ---
 
 ### 🔍 Connect with me:
