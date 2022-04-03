@@ -8,7 +8,7 @@
 
 <p align="left">
 <a href="https://github.com/damarasf?tab=repositories">
-<img height="170em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damarasf&layout=compact&langs_count=8&theme=tokyonight" alt="damarasf" />
+<img height="170em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damarasf&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=tokyonight" alt="damarasf" />
 &nbsp;<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damarasf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="damarasf" />
 </a>
 </p>
