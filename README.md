@@ -23,6 +23,6 @@
 
 <p align="left">
 <a href="https://github.com/damarasf?tab=repositories">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damarasf&theme=tokyonight" alt="damarasf" />
+<img height="170em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damarasf&theme=tokyonight" alt="damarasf" />
 </a>
 </p>
