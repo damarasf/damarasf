@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **damaraccd11@gmail.com**
 
-<p><img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damarasf&show_icons=true&locale=en&layout=compact" alt="damarasf" /></p>
+<p><img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damarasf&show_icons=true&locale=en&layout=compact&langs_count=8&theme=buefy" alt="damarasf" /></p>
 
-<p>&nbsp;<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=damarasf&show_icons=true&locale=en" alt="damarasf" /></p>
+<p>&nbsp;<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=damarasf&show_icons=true&locale=en&theme=buefy&include_all_commits=true&count_private=true" alt="damarasf" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
