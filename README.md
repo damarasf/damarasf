@@ -10,7 +10,7 @@ Curently i learn everything 🤣
   </a>
   </p>
 
-### 💻 Languages and Tools
+### Languages and Tools :
 
   <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -27,7 +27,7 @@ Curently i learn everything 🤣
 <br />
 
 
-### 🔍 Connect with me
+### Connect with me :
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/damarasf#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/damarasf#gh-dark-mode-only)
