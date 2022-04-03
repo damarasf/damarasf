@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Damara 👋</h1>
-<h3 align="center">My name is Damara Syaidil Fitrayatulloh, I'm informatics student at Gunadarma University.</h3>
 
 - 🌱 I’m currently learning **Go & Redis**
 
