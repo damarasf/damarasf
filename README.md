@@ -9,8 +9,8 @@
 
 <p align="left">
 <a href="https://github.com/damarasf?tab=repositories">
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damarasf&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="damarasf" />
-&nbsp;<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damarasf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="damarasf" />
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damarasf&show_icons=true&locale=en&layout=compact&langs_count=8&theme=calm" alt="damarasf" />
+&nbsp;<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damarasf&show_icons=true&theme=calm&include_all_commits=true&count_private=true" alt="damarasf" />
 </a>
 </p>
 
@@ -26,6 +26,6 @@
 
 <p align="left">
 <a href="https://github.com/damarasf?tab=repositories">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damarasf&theme=tokyonight" alt="damarasf" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damarasf&theme=calm" alt="damarasf" />
 </a>
 </p>
