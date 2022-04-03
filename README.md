@@ -12,7 +12,7 @@ Curently i learn everything 🤣
 
 ### Languages and Tools 💻 :
 
-  <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 5px;"/>
+  <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 20px;"/>
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 5px;"/>
   <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"/>
   <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 5px;"/>
