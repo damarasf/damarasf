@@ -1,6 +1,7 @@
 <h1 align="center">
-  <a href="https://github.com/damarasf"> </a>
+  <a href="https://github.com/damarasf">
   <img width="80%" src="./img.svg" alt="Cant Load Image"/>
+  </a>
 </h1>
 
 - 🌱 I’m currently learning **Go & Redis**
