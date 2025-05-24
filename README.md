@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-- 🌱 I’m currently learning **Go & Redis**
 
 
 
